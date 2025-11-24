@@ -126,4 +126,4 @@ La aplicación de React se abrirá automáticamente en tu navegador en `http://l
 
 Despliegue en Azure
 
-Este proyecto está preparado para ser desplegado en Azure. La configuración en settings.py detecta automáticamente el entorno de Azure y utiliza los servicios correspondientes (Azure Database for MySQL, Azure Blob Storage). El despliegue se automatiza a través de un pipeline de CI/CD definido en el archivo .github/workflows/main_...yml.
+Este proyecto está preparado para ser desplegado en Azure. La configuración en settings.py detecta automáticamente el entorno de Azure y utiliza los servicios correspondientes (Azure Database for MySQL, Azure Blob Storage). El despliegue se automatiza a través de un pipeline de CI/CD definido en el archivo https://github.com/DanAHerrer/UANFilms/tree/main/.github/workflows
